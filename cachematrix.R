@@ -1,5 +1,6 @@
 ## The following creates a list object holding four functions to set and retrieve 
 ## a matrix and its inverse.
+## -Ofer Kedem
 
 makeCacheMatrix <- function(x = matrix()) {
     inv <- NULL # initialize the inverse as a null
